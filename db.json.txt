@@ -1,0 +1,16 @@
+{
+"devices": [
+{
+"id": 243,
+"deviceName": Macbook
+"model": Pro
+"price": 2000
+}
+{
+"id": 212,
+"deviceName": Macbook
+"model": Air
+"price": 1500
+}
+]
+}
